@@ -1,0 +1,15 @@
+{
+  "name": "De grote pakjesavond-quiz 2025",
+  "short_name": "Pakjesavond Quiz",
+  "start_url": "./pepernoot.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#ff0000",
+  "icons": [
+    {
+      "src": "icon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
